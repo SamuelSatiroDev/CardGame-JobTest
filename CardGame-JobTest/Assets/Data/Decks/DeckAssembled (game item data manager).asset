@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18737d2e5b1908a4eaa952247ab7319c, type: 3}
+  m_Name: DeckAssembled (game item data manager)
+  m_EditorClassIdentifier: 
+  _info: List of cards that will be sent to the current deck
+  _gameItemData_Bases:
+  - {fileID: 11400000, guid: 7656bfbf1bbe1984190069aaba4f040e, type: 2}
+  - {fileID: 11400000, guid: d54f2e894a5af374a8c1997bace4a819, type: 2}
+  - {fileID: 11400000, guid: 720bba1c267a5a84385f82f3da1a9d0a, type: 2}
+  - {fileID: 11400000, guid: 5e92b70ee12cd9248b1935383c64481d, type: 2}
+  - {fileID: 11400000, guid: 3d5d63407742946409b56aaab8fdb92c, type: 2}
+  - {fileID: 11400000, guid: 157ebe7b86f0a414c829334c4970e697, type: 2}
+  OnGameItemDataCount:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAddedGameItemData:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRemovedGameItemData:
+    m_PersistentCalls:
+      m_Calls: []
