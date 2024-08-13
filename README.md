@@ -2,6 +2,8 @@
 <h3>Unity 2022.3.40 or higher</h3>
 <br>
 
+![Media 13_08_2024 12-09-23](https://github.com/user-attachments/assets/adb5d8dd-a12a-4ac1-ac8c-ee19f54b2d86)
+
 <h3>How to initialize?</h3>
 In the project there is no need to start with a specific scene, it has scripts that manage the correct initialization of the scenes. <br>
 
@@ -20,3 +22,7 @@ After loading the <b>GameManager (persistent)</b> scene, it has scripts that wil
 <h3>How to create a new deck?</h3>
 
 ![Media 13_08_2024 12-05-49](https://github.com/user-attachments/assets/61585067-f323-47ca-aaf7-e278078567ec)
+
+<h3>How to change the rotation of the card when placed?</h3>
+
+![Media 13_08_2024 12-12-09](https://github.com/user-attachments/assets/9c4b1564-23a5-481b-b51c-d89310c4342f)
