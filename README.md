@@ -1,5 +1,7 @@
+www.linkedin.com/in/samuel-sátiro
 <h1>Card Game - Job Test</h1>
 <h3>Unity 2022.3.40 or higher</h3>
+
 <br>
 
 ![Media 13_08_2024 12-09-23](https://github.com/user-attachments/assets/adb5d8dd-a12a-4ac1-ac8c-ee19f54b2d86)
